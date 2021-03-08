@@ -1,1 +1,1 @@
-https://andriy1991.github.io/
+https://Andriy1991.github.io/rsschool-cv/
