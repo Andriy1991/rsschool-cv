@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+.rs {
+  height: 75px;
+  width: 75px;
+}
+.fat {
+    font-size: 21px;
+    font-weight: bold;
+}
